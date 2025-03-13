@@ -4,12 +4,11 @@
     {
         static void Main(string[] args)
         {
-         string username = "admin"
-         string password = "admin123"
-         if(username = "admin" & password = "admin123")
-                Console.WriteLine("xosh gelmisiniz")
-         else
-                Console.WriteLine("username ve ya pasword duzgun daxil edilmedi")
+            //int num = 8;
+            //if (num % 2 == 0)
+            //    Console.WriteLine("num cutdur");
+            //else
+            //    Console.WriteLine("num tekdir");
         }
     }
 }
