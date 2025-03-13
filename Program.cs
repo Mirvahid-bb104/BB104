@@ -16,6 +16,7 @@ namespace BB104
             //}
             //else
             //    Console.WriteLine("DAXIL OLUNAN EDEDLER CUT ILMALIDIR");
+            c
         }
     }
 }
