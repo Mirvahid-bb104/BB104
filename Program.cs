@@ -4,12 +4,12 @@
     {
         static void Main(string[] args)
         {
-            #region Task 1
-            // Print hello world
-
-            Console.WriteLine("Hello, World!");
-            #endregion
-
+         string username = "admin"
+         string password = "admin123"
+         if(username = "admin" & password = "admin123")
+                Console.WriteLine("xosh gelmisiniz")
+         else
+                Console.WriteLine("username ve ya pasword duzgun daxil edilmedi")
         }
     }
 }
