@@ -6,17 +6,20 @@ namespace BB104
     {
         static void Main(string[] args)
         {
-            //int num1 = 8;
-            //int num2 = 9;
-            //int sum = 0;
-            //if (num1 % 2 == 0 && num2 % 2 == 0)
-            //{
-            //    sum = num1 + num2;
-            //    Console.WritLine(sum);
-            //}
+            //int num = 76;
+            //if(num > 90)
+            //    Console.WriteLine("A")
+            //else if(num > 80)
+            //    Console.WriteLine("B")
+            //else if(num > 70)
+            //    Console.WriteLine("C")
+            //else if(num > 60)
+            //    Console.WriteLine("D")
+            //else if(num > 50)
+            //    Console.WriteLine("E")
             //else
-            //    Console.WriteLine("DAXIL OLUNAN EDEDLER CUT ILMALIDIR");
-            c
+            //    Console.WriteLine("F")
+
         }
     }
 }
