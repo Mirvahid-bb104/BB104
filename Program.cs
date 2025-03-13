@@ -1,4 +1,5 @@
-﻿using System.Diagnostics.CodeAnalysis;
+﻿using System.ComponentModel.Design;
+using System.Diagnostics.CodeAnalysis;
 
 namespace BB104
 {
@@ -6,20 +7,16 @@ namespace BB104
     {
         static void Main(string[] args)
         {
-            //int num = 76;
-            //if(num > 90)
-            //    Console.WriteLine("A")
-            //else if(num > 80)
-            //    Console.WriteLine("B")
-            //else if(num > 70)
-            //    Console.WriteLine("C")
-            //else if(num > 60)
-            //    Console.WriteLine("D")
-            //else if(num > 50)
-            //    Console.WriteLine("E")
-            //else
-            //    Console.WriteLine("F")
-
-        }
-    }
+    //        int a = 45;
+    //        int b = 64;
+    //        int c = 75;
+    //        int sum = 0;
+    //        if (a % 5 == 0)
+    //            sum += a;
+    //        else if (b % 5 == 0)
+    //            sum += b;
+    //    }   else if (char % 5 == 0)
+    //        else 
+    //        Console.WritLine("bese bolunen eded yoxdur")
+    //}
 }
